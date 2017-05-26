@@ -19,6 +19,7 @@ Cordova plugin that allows camera interaction from Javascript and HTML
   <li>Set a custom alpha for the preview box.</li>
   <li>Set the focus mode, zoom, color effects, exposure mode, white balance mode and exposure compensation</li>
   <li>Maintain HTML interactivity.</li>
+  <li>Made an update to the IOS package to work with Ionic modal transitions. Mainly stopping the camera when dismissing a modal. </li>
 </ul>
 
 ### iOS only features
